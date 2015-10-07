@@ -1,0 +1,6 @@
+Rule   (Support, Confidence) 
+Student33 -> Student34  (29.4118%, 83.3333%)
+Student2 -> Student1  (20.5882%, 77.7778%)
+Student4 -> Student1  (14.7059%, 83.3333%)
+Student8 -> Student14  (11.7647%, 100%)
+Student14 -> Student8  (11.7647%, 80%)
